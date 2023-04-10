@@ -9,6 +9,7 @@ PROJE ADI: ÇOCUK VE ADÖLESAN OBEZİTESİNDE BESLENME VE YAŞAM TARZI DESTEĞİ
 
 
 ÖZET
+
 Toplumu etkileyen önemli sağlık sorunlarından biri olan obezite, vücuttaki yağ kütlesinin aşırı
 artması sonucunda vücut ağırlığının istenilenden yüksek seviyeye çıkmasıdır. Yediklerimizle
 aldığımız enerjinin fazlası vücutta yağ olarak depolanarak obezite oluşumuna etki eder. Dünya
@@ -39,6 +40,7 @@ Anahtar kelimeler: Çocuk ve fiziksel aktivite, mobil uygulama, adolesan obezite
 yaşam, beslenme.
 
 TEŞEKKÜR
+
 Projemize desteğini esirgemeyen okulumuz proje koordinatörlerinden Sayın Dr. Hale Melis
 Soylu’ya, Sayın Viki Kalderon’a ve Sayın Dr. Volkan Yasakçı’ya, Çocuk Endokrinolojisi ve
 Diyabet Uzmanı Prof. Dr. Şükran Darcan ve Göğüs Cerrahı Doç. Dr. İlker Akçam’a çok
