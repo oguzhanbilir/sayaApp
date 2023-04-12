@@ -3,7 +3,11 @@ SAYA / Sağlıklı Yaşam Uygulaması
 
 Bu uygulama İzmir Özel Çakabey Ortaokulu 7. sınıf öğrencileri Defne AKÇAM ve Ece YANIK tarafından Bilişim Teknolojileri ve Yazılım Öğretmeni Oğuzhan BİLİR danışmanlığında TÜBİTAK 2204-B Ortaokul Öğrencileri Araştırma Projeleri Yarışması için tasarlanıp, kodlanmıştır.
 
-PROJE ALANI: YAZILIM</br>TEMATİK ALAN: SAĞLIKLI BESLENME</br>PROJE ADI: ÇOCUK VE ADÖLESAN OBEZİTESİNDE BESLENME VE YAŞAM TARZI DESTEĞİ OLARAK MOBİL UYGULAMA GELİŞTİRİLMESİ
+PROJE ALANI: YAZILIM
+
+TEMATİK ALAN: SAĞLIKLI BESLENME
+
+PROJE ADI: ÇOCUK VE ADÖLESAN OBEZİTESİNDE BESLENME VE YAŞAM TARZI DESTEĞİ OLARAK MOBİL UYGULAMA GELİŞTİRİLMESİ
 
 
 ÖZET
